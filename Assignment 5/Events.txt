@@ -1,0 +1,30 @@
+Events
+1.System powered on
+2.System powered off
+3.Remote button pressed
+4.Remote button released
+5.Turn on remote telltale light
+6.Turn off remote telltale light
+7.Start motor
+8.Stop motor
+9.Door fully closed
+10.Door fully open
+11.Turn on courtesy light
+12.Turn off courtesy light
+13.Stationary door button pressed
+14.Stationary door button released
+15.Turn on stationary door telltale light
+16.Turn off stationary door telltale light
+17.Stationary disable remote button pressed
+18.Stationary disable remote button released
+19.Enable remote
+20.Disable remote
+21.Turn on stationary remote status telltale light
+22.Turn off stationary remote status telltale light
+23.Stationary courtesy button pressed
+24.Stationary courtesy button released
+25.Turn on stationary courtesy telltale light
+26.Turn off stationary courtesy telltale light
+27.Courtesy light timer started
+28.Courtesy light timer expires
+29.Activate door system
