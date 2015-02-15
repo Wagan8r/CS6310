@@ -4,7 +4,7 @@ Assumptions
 
 Notes
 
-1. All composite states are intended to be concurrent regions. ArguUML doesn't provide a clean way of arranging its built-in concurrent regions within a composite state.
+1. All composite states are intended to be concurrent regions. ArguUML doesn't provide a clean way of arranging its built-in concurrent regions within a composite state, hence the lack of dotted lines.
 2. The remote communicates to the garage door motor via the stationary control device. Therefore, the remote events are routed through the stationary device, and if the remote is enabled, the door activation event is dispatched.
 3. The courtesy light concurrent region doesn't specifically call-out the oddness or evenness of the count of times the courtesy button has been pressed. The machine has been designed to function as required without the need for a counter.
 4. In the event of a power outage, the system will retain state history for the door, remote status, and the two door sensors.
